@@ -25,3 +25,4 @@ console.log(
     "초:" + d2.getSeconds() + "\n" +
     "밀리초:" + d2.getMilliseconds()
 )
+

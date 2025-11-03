@@ -30,3 +30,11 @@ console.log(false === 0);
 console.log(4 === new String("4"));
 console.log(4 === 5 - 2);
 console.log(new Number(4) === new Number(4));
+
+
+
+
+
+
+
+

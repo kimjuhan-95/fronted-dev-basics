@@ -56,3 +56,12 @@ console.log(a); // [1, 3, 'a', 'b', 'c', 4]
 
 
 Goods g = new Goods();
+
+
+
+
+
+
+
+
+

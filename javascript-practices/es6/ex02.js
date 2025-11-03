@@ -19,6 +19,9 @@ name: 둘리
 email: dooly@gmail.com
 */
 // console.log(`no: ${no}\nname: ${name}\nemail: ${email}`);
-console.log(`no: ${no}
+console.log(`
+no: ${no}
 name: ${name}
-email: ${email}`);
+email: ${email}
+`);
+

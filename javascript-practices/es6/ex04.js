@@ -56,3 +56,6 @@ const dooly = {
 };
 
 dooly.printFriends();
+
+
+

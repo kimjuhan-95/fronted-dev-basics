@@ -74,3 +74,4 @@ for(var prop in a6) {
 for(var i = 0; i < a6.length; i++) {
     console.log(a6[i]);
 }
+

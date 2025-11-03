@@ -92,3 +92,6 @@ var f3 = function() {
 }.bind(myObject);
 
 f3();
+
+
+

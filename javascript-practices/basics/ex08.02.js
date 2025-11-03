@@ -60,3 +60,12 @@ console.log("===========[11] sort");
 console.log("===========[12] unshift");
 console.log("===========[13] indeOf");
 console.log("===========[14] lastIndexOf");
+
+
+
+
+
+
+
+
+

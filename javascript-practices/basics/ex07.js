@@ -62,3 +62,15 @@ console.log(MyMath.__proto__ === Function.prototype);
 
 console.log("===[12] Function.prototype 객체의 속성 사용해보기");
 console.log(math.toString.apply({name: '둘리'}), math.add.call(null, 10, 20));
+
+
+
+
+
+
+
+
+
+
+
+

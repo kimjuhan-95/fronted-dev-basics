@@ -26,3 +26,6 @@ var f2 = function() {
 
 var closure = f2();
 closure();
+
+
+

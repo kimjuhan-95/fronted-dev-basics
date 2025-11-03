@@ -19,7 +19,9 @@ console.log("==========[01: forEach]")
 a.forEach((e, i) => console.log(i + ":" + e));
 
 console.log("==========[02: map]")
-const a2 = a.map(e => e*e);
+const a2 = a.map(function(e) {
+    return e*e;
+});
 console.log(a2);
 
 console.log("==========[03: filter]")
@@ -65,3 +67,4 @@ const result3 = a.reduceRight(function(a, e){
     return a;
 }, []);
 console.log(result3);
+
